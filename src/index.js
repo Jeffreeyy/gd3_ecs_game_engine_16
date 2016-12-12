@@ -1,1 +1,3 @@
-let name = "Jeffrey";
+let name = "Mediacollege";
+
+console.log(name);
